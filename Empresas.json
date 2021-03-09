@@ -1,0 +1,10 @@
+{
+   "empresas":[
+      {
+         "usuario":"polotex",
+         "password":"1234",
+         "base":"DigitalB",
+         "RUC":"20441825481"
+      }
+   ]
+}
